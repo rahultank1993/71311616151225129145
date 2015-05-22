@@ -1,0 +1,29 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "67f17e74df18727d19c5681c456a87b356d55d87.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/67f17e74df18727d19c5681c456a87b356d55d87.js",
+      "size": 331962,
+      "hash": "67f17e74df18727d19c5681c456a87b356d55d87"
+    },
+    {
+      "path": "06b5e09042a7bd2a637aa908358ecf2d39af1556.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/06b5e09042a7bd2a637aa908358ecf2d39af1556.css?meteor_css_resource=true",
+      "size": 55,
+      "hash": "06b5e09042a7bd2a637aa908358ecf2d39af1556"
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "2a6eb96cfdc1746c79843dbd602ad0b93eeafd1d"
+    }
+  ]
+}
